@@ -1,23 +1,20 @@
 # DiceRollingApp
 
 
-1.Introduction
+This is a simple dice roller app for Android. It allows the user to roll a six-sided die and displays the result of the roll.
 
-2.Features 
+## Features 
 
-3.Learnings 
+Roll a six-sided die on clicking on it
 
+Display the result of the roll rabdamly once rolled.
 
-1. Introduction : 
+### Usage 
 
-This application is bulit using java , where user can click on button in the app to roll a dice. the output will be in the form of the image on the screen.
+Click on the Dice to generate a random number between 1 and 6.
 
-2. Features :
+The result of the roll will be displayed.
 
-A dice roller Application that has a Button to roll and updates the results on the screen in the form of the image. 
+#### Learnings 
 
-3. Learnings :  
-
-i. learnt how to Add buttons, images and other Resources to the app,and add behavior for when the button is tapped.
-
-ii. learnt about the Activity.
+learnt about the activity , layouts and Resources.
